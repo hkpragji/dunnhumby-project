@@ -6,6 +6,7 @@
 .Rapp.history
 
 # Session Data files
+*.Rproj
 .RData
 .RDataTmp
 
